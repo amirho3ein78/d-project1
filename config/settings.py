@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '@$+9rb0mjkx9#@#9#w0q%r_h6tu-#53#ni)$jh=&%jvl^^zo)+'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jfmxp.ir']
 
 
 # Application definition
